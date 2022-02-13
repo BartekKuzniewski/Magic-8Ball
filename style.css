@@ -77,7 +77,7 @@ body {
 }
 
 .question-area .error {
-    color: #3add8c;
+    color: tomato;
     font-weight: bold;
 }
 
